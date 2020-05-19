@@ -1750,3 +1750,16 @@ node_modules/util-deprecate/node.js
 node_modules/util-deprecate/package.json
 node_modules/util-deprecate/README.md
 .env
+node_modules/lodash.foreach/index.js
+node_modules/lodash.foreach/LICENSE
+node_modules/lodash.foreach/package.json
+node_modules/lodash.foreach/README.md
+node_modules/lodash.get/index.js
+node_modules/lodash.get/LICENSE
+node_modules/lodash.get/package.json
+node_modules/lodash.get/README.md
+node_modules/mongoose-unique-validator/CHANGELOG.md
+node_modules/mongoose-unique-validator/index.js
+node_modules/mongoose-unique-validator/package.json
+node_modules/mongoose-unique-validator/README.md
+node_modules/mongoose-unique-validator/yarn.lock
